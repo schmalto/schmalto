@@ -21,7 +21,7 @@
 ### Some metrics about me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b4ldur-ts&layout=compact)](https://github.com/b4ldur-ts/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b4ldur-ts)](https://github.com/b4ldur-ts/github-readme-stats)
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b4ldur-ts)](https://wakatime.com/@b4ldur)
 
 
 
