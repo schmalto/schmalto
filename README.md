@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/17486be9-7d6b-49e4-9fa7-fd46437748ab.svg)](https://wakatime.com/@17486be9-7d6b-49e4-9fa7-fd46437748ab)
 ## Tobi here! :v:
 
 ### Working on:
