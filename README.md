@@ -14,7 +14,7 @@
 - Python
 - JavaScript
 
-### Frameworks I worked with
+### Frameworks I've worked with
 - Vue.js 
 - IonicVue
 - ROS / ROS2
