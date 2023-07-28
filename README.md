@@ -6,6 +6,7 @@
 - FPGAs
 - Raspberry Pi
 - Robotics
+- Computer Vision and AI 
 - ...and some Web Dev stuff
 
 ### Languages
@@ -20,6 +21,8 @@
 - ROS / ROS2
 - STM32 
 - Arduino.h
+- PyTorch
+- Tensorflow / Keras
 
 ### Tools
 - VSCode
