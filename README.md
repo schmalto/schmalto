@@ -32,7 +32,7 @@
 
 ### Some metrics about me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b4ldur-ts&layout=compact)](https://github.com/b4ldur-ts/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schmalto&layout=compact)](https://github.com/b4ldur-ts/github-readme-stats)
 
 
 
